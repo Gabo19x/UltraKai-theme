@@ -1,0 +1,30 @@
+{
+    "name": "UltraKai",
+    "displayName": "UltraKai",
+    "description": "My theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "UltraKai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/UltraKai-color-theme.json"
+            }
+        ]
+    },
+    "author": {
+        "name": "Gabo19"
+    },
+    "repository": {
+        "url": "https://github.com/Gabo19x/UltraKai-theme.git",
+        "type": "git"
+    
+    },
+    "publisher": "codigo-tema"
+}
